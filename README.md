@@ -25,6 +25,9 @@ O objetivo do projeto é comprovar, em código, o ganho de desempenho obtido ao 
 
 ## 📊 Resultados Obtidos (Evidência)
 O script realiza um loop de cálculo denso para simular as equações matemáticas. Durante os testes locais documentados, obtivemos os seguintes resultados práticos:
+
+![Print do Terminal provando o ganho de desempenho](THREADS_PY.png)
+
 * **Tempo Sequencial (1 núcleo):** ~4.59 segundos
 * **Tempo Paralelo (Todos os núcleos):** ~1.66 segundos
 
