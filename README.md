@@ -28,10 +28,10 @@ O script realiza um loop de cálculo denso para simular as equações matemátic
 
 ![Print do Terminal provando o ganho de desempenho](THREADS_PY.png)
 
-* **Tempo Sequencial (1 núcleo):** ~4.59 segundos
-* **Tempo Paralelo (Todos os núcleos):** ~1.66 segundos
+* **Tempo Sequencial (1 núcleo):** ~3.92 segundos
+* **Tempo Paralelo (Todos os núcleos):** ~1.22 segundos
 
-**Conclusão:** O processamento paralelo foi **2.76 vezes mais rápido** na resolução da mesma quantidade de tarefas, validando perfeitamente a eficácia da divisão de processamento.
+**Conclusão:** O processamento paralelo foi **3.21 vezes mais rápido** na resolução da mesma quantidade de tarefas, validando perfeitamente a eficácia da divisão de processamento.
 
 ---
 ## 👨‍💻 Autor
